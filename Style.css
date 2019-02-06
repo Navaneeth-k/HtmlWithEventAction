@@ -1,0 +1,17 @@
+body
+{
+	background-color: lightblue;
+}
+
+h1
+{
+	color: green;
+}
+table
+{
+	table-layout: 2px 2px 2px 2px; 
+}
+footer
+{
+	padding-top: 50px
+}
